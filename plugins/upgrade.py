@@ -23,14 +23,14 @@ Daily Upload limit 100GB
 Price Rs 179  ind /🌎 2.16$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>madflixofficial@axl</code>
-<b>➜ PayPal :</b> <a href='https://www.paypal.me/jishudeveloper'>Click Here</a>
-<b>➜ QR Code :</b> <a href='https://telegra.ph/QR-Payment-07-24-4'>Click Here</a>
+<b>➜ UPI ID :</b> <a href='https://t.me/KING18x007'>𝐶𝑙𝑖𝑐𝑘 𝛨𝑒𝑟𝑒 👈</a
+<b>➜ PayPal :</b> <a href='https://t.me/King18x007'>𝐶𝑙𝑖𝑐𝑘 𝛨𝑒𝑟𝑒 👈</a>
+<b>➜ QR Code :</b> <a href='https://t.me/KING18x007'>𝐶𝑙𝑖𝑐𝑘 𝛨𝑒𝑟𝑒 👈</a>
 
 After Payment Send Screenshots Of Payment To Admin @MadflixOfficials"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/calladminrobot"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/KING18x007"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
@@ -57,14 +57,14 @@ Daily Upload limit 100GB
 Price Rs 179  ind /🌎 2.16$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>madflixofficial@axl</code>
-<b>➜ PayPal :</b> <a href='https://www.paypal.me/jishudeveloper'>Click Here</a>
-<b>➜ QR Code :</b> <a href='https://telegra.ph/QR-Payment-07-24-4'>Click Here</a>
+<b>➜ UPI ID :</b> <a href='https://t.me/KING18x007'>𝐶𝑙𝑖𝑐𝑘 𝛨𝑒𝑟𝑒 👈</a>
+<b>➜ PayPal :</b> <a href='https://t.me/King18x007'>𝐶𝑙𝑖𝑐𝑘 𝛨𝑒𝑟𝑒 👈</a>
+<b>➜ QR Code :</b> <a href='https://t.me/KING18x007'>𝐶𝑙𝑖𝑐𝑘 𝛨𝑒𝑟𝑒 👈</a>
 
-After Payment Send Screenshots Of Payment To Admin @MadflixOfficials"""
+After Payment Send Screenshots Of Payment To Admin @King18x007"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/calladminrobot"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/KING18x007"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
@@ -76,6 +76,6 @@ After Payment Send Screenshots Of Payment To Admin @MadflixOfficials"""
     
 # Jishu Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Back-Up Channel @JishuBotz
-# Developer @JishuDeveloper & @MadflixOfficials
+# Telegram Channel @Aniket_Movies_Hub 
+# Back-Up Channel @AJ_TVSERIAL 
+# Developer @King18x007
