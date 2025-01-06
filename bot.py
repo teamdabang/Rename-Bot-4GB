@@ -30,6 +30,6 @@ else:
 
 # Jishu Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Back-Up Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Aniket_Movies_Hub 
+# Back-Up Channel @AJ_TVSERIAL 
+# Developer @King18x007
