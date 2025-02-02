@@ -33,15 +33,24 @@ async def start(client, message):
     await asyncio.sleep(2)
     await loading_sticker_message.delete()
     
-    text = f"""Hello {message.from_user.mention} \n\n➻ This Is An Advanced And Yet Powerful Rename Bot.\n\n➻ Using This Bot You Can Rename And Change Thumbnail Of Your Files.\n\n➻ You Can Also Convert Video To File Aɴᴅ File To Video.\n\n➻ This Bot Also Supports Custom Thumbnail And Custom Caption.\n\n<b>Bot Is Made By @Madflix_Bots</b>"""
+    text = f"""Hello {message.from_user.mention} I am one and only DRM Downloader Bot on Telegram.
+
+I can help you to download content from OTT Platforms
+
+You can use me to Download DRM protected links to Telegram & Google Drive
+
+Here I support a vast number of otts from where you can download Drm or non-drm videos easily..
+
+If You Found Any Issue Contact Support</b>"""
     
     button = InlineKeyboardMarkup([
-        [InlineKeyboardButton("📢 Updates", url="https://t.me/Aniket_Movies_Hub"),
-        InlineKeyboardButton("💬 Support", url="https://t.me/King18x007")],
-        [InlineKeyboardButton("🛠️ Help", callback_data='help'),
-        InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
-        [InlineKeyboardButton("⏤͟͟͞͞ 🇮🇳 𝐀𝐧𝐢𝐤𝐞𝐭 𝐂𝐨𝐝𝐞𝐫 ᯤ̸", url="https://t.me/KING18X007")]
-        ])
+        [InlineKeyboardButton("Updates Channel", url="https://t.me/Contact_Nx_bot"),
+        InlineKeyboardButton("Support Grp", url="https://t.me/Contact_Nx_bot")],
+        [InlineKeyboardButton("About", callback_data='about'),
+        InlineKeyboardButton("Help", callback_data='help'),
+        InlineKeyboardButton("Contact Us", callback_data='ContactUs)],
+        [InlineKeyboardButton("OTTS", callback_data='OTTS')
+        InlineKeyboardButton("Plans", callback_data='plans')]
     
     await message.reply_photo(
         photo=START_PIC,
