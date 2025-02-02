@@ -1,4 +1,6 @@
 class script(object):
+OTTS_TXT
+    
     HELP_TXT = """<b>Hey</b> {}
     
 <b>Here Is The Help For My Commands.</b>"""
@@ -17,20 +19,21 @@ class script(object):
 <b>⦿ /delthumb - Use This Command To Delete Your Thumbnail</b>"""
 
     ABOUT_TXT = """<b>🤖 My Name :</b> {}
-<b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
-<b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-<b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Aniket_Movies_Hub'>𝐀𐓣𝗂𝗄𝖾𝗍 𝐌ⱺ𝗏𝗂𝖾𝗌</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/King18x007'>⏤͟͟͞͞ 🇮🇳 𝐀𝐧𝐢𝐤𝐞𝐭 𝐂𝐨𝐝𝐞𝐫 ᯤ̸</a>
-
-<b>♻️ Bot Made By :</b> @Aniket_Movies_Hub"""
+<b>🤖 My Name - <b> <a href='https://t.me/OTTDL_BOT'>OTT DRM BOT</a>
+<b>🏷️ Bot Version - v1.1 -OttDl
+<b>📝 Language - </b> <a href='https://python.org/'>Python</a>
+<b>📚 Library - </b> <a href='http://Pyrogram.org/'>Pyrogram</a>
+<b>📡 Hosted on - </b> <a href='https://console.cloud.google.com/'>Google Cloud</a>
+<b>👨‍💻 Developer - </b> <a href='https://t.me/Contact_Nx_bot'>Mr King</a>
+<b>📢 Updates Channel - </b> <a href='https://t.me/Contact_Nx_bot'>BOTS</a>
+<b>🕵️ Buy SubscriPtion - </b> <a href='https://t.me/Contact_Nx_bot'>Mr King</a>
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> <a href='https://t.me/King18x007'>𝐶𝑙𝑖𝑐𝑘 𝛨𝑒𝑟𝑒 𝑇𝘰 𝐷𝘰𝑛𝑎𝘵𝑒 👈</a>
+<b>🛍 UPI ID:</b> <a href='https://t.me/Contact_Nx_bot'>𝐶𝑙𝑖𝑐𝑘 𝛨𝑒𝑟𝑒 𝑇𝘰 𝐷𝘰𝑛𝑎𝘵𝑒 👈</a>
 
 <b>📸 Send Screenshot After Donation To Activate Your Premium Plan </b> """
 
@@ -50,9 +53,9 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
 For Example :-
 
-<code>By @Aniket_Movies_Hub</code>
+<code>By @Contact_Nx_bot</code>
 
-💬 For Any Help Contact @King18x007
+💬 For Any Help Contact @Contact_Nx_bot 
 """
 
 
